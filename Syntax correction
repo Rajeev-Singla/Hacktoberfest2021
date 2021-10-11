@@ -1,0 +1,2 @@
+never use using namespace std 
+always use std::
